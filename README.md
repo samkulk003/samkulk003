@@ -9,8 +9,10 @@
 - ⚡ Fun fact: Love listening to music and a gym freak.
   
 ### Github Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=dracula&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=e74c3c&count_private=true)
 
-![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=highcontrast)
+![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=e74c3c)
 
-![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=dracula)
+![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=e74c3c)
+
+![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=e74c3c)
