@@ -6,7 +6,8 @@
 - 🌱 Intermediate understanding of **Natural Language Processing**.
 - 👯 I’m looking to collaborate on **Flutter and Machine Learning projects**.
 - 📫 How to reach me: samukulk003@gmail.com
-- ⚡ Fun fact: Love listening to **music** and going to the **gym**.
+- ⚡ Fun fact: Love listening to **music** and **gym freak**.
+- 🥉**2nd Runner-up in DataHack 1.0** , 24 hrs hacakathon.
 
 ## Languages and Tools
 
