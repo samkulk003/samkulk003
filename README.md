@@ -8,6 +8,11 @@
 - 📫 How to reach me: samukulk003@gmail.com
 - ⚡ Fun fact: Love listening to **music** and going to the **gym**.
 
+## Connect with Me
+
+- 📧 Email: [samukulk003@gmail.com](mailto:samukulk003@gmail.com)
+- 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samruddhi-kulkarni/)
+- 🐦 Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/samkulk003)
 
 ### Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=98fb98&count_private=true)
