@@ -7,6 +7,22 @@
 - 👯 I’m looking to collaborate on **Flutter and Machine Learning projects**.
 - 📫 How to reach me: samukulk003@gmail.com
 - ⚡ Fun fact: Love listening to **music** and going to the **gym**.
+
+## Connect with Me
+
+- 📧 Email: samukulk003@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samruddhi-kulkarni/)
+- 🐦 Twitter: [@samkulk003](https://twitter.com/samkulk003)
+
+## Languages and Tools
+
+- 💻 Flutter
+- 🤖 Machine Learning
+- 📊 Data Analysis
+- 🎮 Unity
+- 🌐 HTML, CSS, JavaScript
+- ⚙️ Git, GitHub
+- 📚 Natural Language Processing
   
 ### Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=98fb98&count_private=true)
