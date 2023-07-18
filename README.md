@@ -14,5 +14,5 @@
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=98fb98)
 
 ![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=98fb98)
-
+![Your GitHub stats](https://img.shields.io/badge/Stats-98fb98?style=flat-square&logoColor=white&color=98fb98)
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=98fb98)
