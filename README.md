@@ -14,5 +14,3 @@
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=98fb98)
 
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=98fb98)
-
-![Snake animation representing contributions](https://github.com/samkulk003/samkulk003/raw/output/github-contribution-grid-snake.svg)
