@@ -1,11 +1,6 @@
 ### Hi there, I am Samruddhi Kulkarni 👋
 ## A passionate developer specializing in Flutter and Machine Learning. 
 
-<!--
-**samkulk003/samkulk003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -  🎓 I'm currently in my 3rd year of Engineering at DJ Sanghvi College of Engineering
 - 🔭 Currently working on App development in Flutter and Machine Learning.
 - 🌱 Intermediate understanding of Natural Language Processing.
