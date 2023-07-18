@@ -10,7 +10,8 @@
 
 ## Languages and Tools
 
-[![Flutter](https://flutter.dev/images/flutter-logo-sharing.png)](https://flutter.dev)
+[![Flutter](https://flutter.dev/assets/flutter-lockup-8ec9e0bd8b6037e77f4ed33e68237746.svg)](https://flutter.dev)
+
 
 
 
