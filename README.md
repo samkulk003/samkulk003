@@ -7,3 +7,4 @@
 - 👯 I’m looking to collaborate on Flutter and Machine Learning projects.
 - 📫 How to reach me: samukulk003@gmail.com
 - ⚡ Fun fact: Love listening to music and a gym freak.
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samukulk003&show_icons=true&theme=radical)
