@@ -8,4 +8,5 @@
 - 📫 How to reach me: samukulk003@gmail.com
 - ⚡ Fun fact: Love listening to music and a gym freak.
   
+### Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=radical)
