@@ -15,5 +15,6 @@
 
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=98fb98)
 
-![Snake eating your contributions](https://github.com/samkulk003/samkulk003/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation representing contributions](https://github.com/samkulk003/samkulk003/blob/output/github-contribution-grid-snake.svg)
+</details>
 
