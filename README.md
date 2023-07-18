@@ -11,7 +11,7 @@
 ## Languages and Tools
 
 <div align="center">
-  
+
   <!-- BlueJ -->
   <a href="https://www.bluej.org/">
     <img src="https://img.shields.io/badge/BlueJ-0000FF?style=for-the-badge&logo=bluej&logoColor=white" alt="BlueJ">
@@ -76,9 +76,43 @@
   <a href="https://www.tableau.com/">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   </a>
+  
+  <!-- SQL -->
+  <a href="https://www.sql.org/">
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  </a>
+  
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+  
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  </a>
+  
+  <!-- Keras -->
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  </a>
+  
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  </a>
+  
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  </a>
+  
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  </a>
 
 </div>
-
 
 ### Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=98fb98&count_private=true)
