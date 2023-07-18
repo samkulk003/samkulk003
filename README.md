@@ -1,5 +1,5 @@
-### Hi there, I am Samruddhi Kulkarni 👋
-## A passionate developer specializing in Flutter and Machine Learning. 
+## Hi there, I am Samruddhi Kulkarni 👋
+### A passionate developer specializing in Flutter and Machine Learning. 
 
 -  🎓 I'm currently in my 3rd year of Engineering at DJ Sanghvi College of Engineering
 - 🔭 Currently working on App development in Flutter and Machine Learning.
