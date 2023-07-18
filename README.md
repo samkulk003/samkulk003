@@ -12,5 +12,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samkulk003&show_icons=true&theme=radical)
 
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003)
-![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003)
+
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css)
