@@ -13,6 +13,4 @@
 
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=highcontrast)
 
-![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=highcontrast)
-
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=dracula)
