@@ -15,4 +15,6 @@
 
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkulk003&layout=compact&hide=html,css&theme=98fb98)
 
+![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=samkulk003&theme=radical&fire=DD2727&ring=DD2727&currStreakLabel=FA8072&snake=true)
+
 
