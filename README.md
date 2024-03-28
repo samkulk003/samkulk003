@@ -1,8 +1,8 @@
 ## Hi there, I am Samruddhi Kulkarni 👋
 ### A passionate Flutter and Machine Learning Developer. 
 
--  🎓 I'm currently in my **3rd year** of Engineering at **DJ Sanghvi College of Engineering**.
-- 🔭 Currently working on App development in **Flutter and Machine Learning**.
+- 🎓 I'm currently in my **3rd year** of Engineering at **DJ Sanghvi College of Engineering**.
+- 🔭 **App developer** (flutter) and **Machine Learning developer**.
 - 🌱 Intermediate understanding of **Natural Language Processing**.
 - 👯 I’m looking to collaborate on **Flutter and Machine Learning projects**.
 - 📫 How to reach me: samukulk003@gmail.com
